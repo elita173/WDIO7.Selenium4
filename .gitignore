@@ -4,3 +4,6 @@ node_modules/
 #base allure reporting directory
 allure-results/
 allure-report/
+
+#package lock
+package-lock.json

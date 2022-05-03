@@ -1,0 +1,6 @@
+# Dependency directories
+node_modules/
+
+#base allure reporting directory
+allure-results/
+allure-report/
